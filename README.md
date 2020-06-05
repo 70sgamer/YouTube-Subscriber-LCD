@@ -6,10 +6,6 @@ and display the subscriber count on a I2C 16x2 Pixel LCD display as well as seri
 
 You may need to download the libraries listed below via Arduino IDE software Library Manager.
 
-Required libraries and board files:
-esp8266               install from boards manager
-YoutubeApi            for accessing Youtube via API key
-ArduinoJson           required by YoutubeAPI
-LiquidCrystal_I2C      for 16X2 LCD
+Required libraries: esp8266,YoutubeApi,ArduinoJson,LiquidCrystal_I2C
 
 70sGamer.com
