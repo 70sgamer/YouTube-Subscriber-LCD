@@ -7,5 +7,3 @@ and display the subscriber count on a I2C 16x2 Pixel LCD display as well as seri
 You may need to download the libraries listed below via Arduino IDE -> Library Manager.
 
 Required libraries: ESP8266,YoutubeApi,ArduinoJson,LiquidCrystal_I2C
-
-70sGamer.com
